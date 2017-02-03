@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beacon App</string>
+    <string name="mainHeader">Click a Beacon to change it\'s settings</string>
+    <string name="currentSetting">Current Setting:</string>
+    <string name="UUID">UUID:</string>
+    <string name="Major">Major:</string>
+    <string name="Minor">Minor:</string>
+</resources>

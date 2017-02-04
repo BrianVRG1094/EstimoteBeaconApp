@@ -9,16 +9,22 @@ If the user wanted to prompted to open their music app on their phone when they 
 -----------------------------
 I. Prerequisites
 -----------------------------
+
 For the app
+
 1. An Android device running at least Android v2.0 and has Bluetooth capabilities.
 2. At least 1 Estimote Beacon
+
 For the project file
+
 1. Android Studio
 
 -----------------------------
 II. Installing
 -----------------------------
+
 To install the app:
+
 1. Open Android Studio
 2. Open the project file within Android Studio
 3. If you wish to have the app on another device, connect via USB to your computer and make sure any drivers for it are installed. If you wish to run the app on a virtual device running on your computer, continue to next step.
@@ -29,6 +35,7 @@ To install the app:
 -----------------------------
 I. Using the Appp
 -----------------------------
+
 Once you have installed the app, using it is simple. 
 A list is prepoluated with the 3 Beacons. 
 Simply click one, and a new window is opened which will present you with some information about the Beacon. 
@@ -38,7 +45,9 @@ This consists of choosing which app you want to be prompted to open.
 -----------------------------
 I. Design Changes & Issues
 -----------------------------
+
 1. Changes
+
 Throughout the development process, changes had to be made to the app (shocking, I know). 
 Originally I wanted the app to be condensed into a single Activity that had the Beacons in a list.
 Once you clicked on a Beacon, a "drawer" of sorts would be opened underneath the Beacon on the list and all its settings would be displayed there.
@@ -47,7 +56,9 @@ Not all the changes were dropping features however.
 Some things were additions that were implemented with relative ease. 
 An original app Icon was made within a day and added to the project. 
 The loading screen when the app is opened was also something that wasn't planned from the beginning.
+
 2. Issues
+
 There really isn't much issues with the app itself. 
 The detection of the Beacons has been tested multiple times and has always worked. 
 The settings are saved succesfully and correctly applied to each individual Beacon. 

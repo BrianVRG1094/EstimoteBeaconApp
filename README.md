@@ -34,6 +34,7 @@ A list is prepoluated with the 3 Beacons.
 Simply click one, and a new window is opened which will present you with some information about the Beacon. 
 From there you can change the setting of the Beacon. 
 This consists of choosing which app you want to be prompted to open.
+
 -----------------------------
 I. Design Changes & Issues
 -----------------------------
